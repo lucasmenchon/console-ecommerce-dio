@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\crud_dio\bin\Debug\netcoreapp3.1\crud_dio.exe
+C:\Users\Lucas\Desktop\crud_dio\bin\Debug\netcoreapp3.1\crud_dio.deps.json
+C:\Users\Lucas\Desktop\crud_dio\bin\Debug\netcoreapp3.1\crud_dio.runtimeconfig.json
+C:\Users\Lucas\Desktop\crud_dio\bin\Debug\netcoreapp3.1\crud_dio.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\crud_dio\bin\Debug\netcoreapp3.1\crud_dio.dll
+C:\Users\Lucas\Desktop\crud_dio\bin\Debug\netcoreapp3.1\crud_dio.pdb
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.dll
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.pdb
+C:\Users\Lucas\Desktop\crud_dio\obj\Debug\netcoreapp3.1\crud_dio.genruntimeconfig.cache
